@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nrlfwMl/KHGg08oFb1wFYPbLwcHdnO9PRq7SjuCMO7rpAFXLRhx7cimACdADng5T25ZdHu0nxKx3QpJ5z5lLQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danee\\OneDrive\\Рабочий стол\\s4ppyy\\Message.Processing\\Message.Processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danee\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

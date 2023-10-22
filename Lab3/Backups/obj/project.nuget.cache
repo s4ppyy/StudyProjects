@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SQZqtT1XIa4OZj5lp6hD/4GLiV7qQHmxLJaZ/KniFa0Ht5KewvWxrYPXrW6mFBqH81EtST4UBjBUUp/5oShu6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danee\\OneDrive\\Рабочий стол\\s4ppyy\\Lab3\\Backups\\Backups.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danee\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

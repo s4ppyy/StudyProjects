@@ -1,0 +1,12 @@
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\bin\Debug\net6.0\Message.Processing.deps.json
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\bin\Debug\net6.0\Message.Processing.dll
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\bin\Debug\net6.0\Message.Processing.pdb
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.csproj.AssemblyReference.cache
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.AssemblyInfoInputs.cache
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.AssemblyInfo.cs
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.csproj.CoreCompileInputs.cache
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.dll
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\refint\Message.Processing.dll
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\Message.Processing.pdb
+C:\Users\Danee\OneDrive\Рабочий стол\s4ppyy\Message.Processing\obj\Debug\net6.0\ref\Message.Processing.dll

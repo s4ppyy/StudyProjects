@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "OLYDeWp0827XtHm32TlMO4t3V9K8xsnxfLPZ7R+McqSOV0m4qFaAUHGYVtDBliveqiPnB/30n8BHHN3gLmW8Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danee\\OneDrive\\Рабочий стол\\s4ppyy\\Message.Processing.Console\\Message.Processing.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danee\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

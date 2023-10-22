@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZS+/szAnR7B6aJZdQLTO5aFnzw8JjqQxfTdILhHbNW3ZSsmps4C3OqklRnjYh34Lp1XHCn+9Dng9MMXjHUNUvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danee\\OneDrive\\Рабочий стол\\s4ppyy\\Lab4\\Banks.Console\\Banks.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danee\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Danee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
